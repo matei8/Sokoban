@@ -1,0 +1,73 @@
+map,solver,heuristic,success,time,states_explored,solution_length,timed_out,complexity
+easy_map1.yaml,IDA*,Simple,True,0.0728905200958252,2007,23,False,1
+easy_map1.yaml,IDA*,Matching,True,0.07046270370483398,2108,23,False,1
+easy_map1.yaml,IDA*,IDA*,True,0.04507756233215332,1331,23,False,1
+easy_map1.yaml,IDA*,Target Matching,True,0.2810201644897461,8002,23,False,1
+easy_map1.yaml,Simulated Annealing,Simple,True,24.9038827419281,0,141,False,1
+easy_map1.yaml,Simulated Annealing,Matching,True,6.242424726486206,0,293,False,1
+easy_map1.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,1
+easy_map1.yaml,Simulated Annealing,Target Matching,True,52.47325015068054,0,213,False,1
+easy_map2.yaml,IDA*,Simple,True,0.0062160491943359375,278,9,False,1
+easy_map2.yaml,IDA*,Matching,True,0.008882999420166016,278,9,False,1
+easy_map2.yaml,IDA*,IDA*,True,0.00080108642578125,38,9,False,1
+easy_map2.yaml,IDA*,Target Matching,True,0.0028772354125976562,127,11,False,1
+easy_map2.yaml,Simulated Annealing,Simple,True,1.2610316276550293,0,151,False,1
+easy_map2.yaml,Simulated Annealing,Matching,True,1.1004407405853271,0,201,False,1
+easy_map2.yaml,Simulated Annealing,IDA*,True,6.238215684890747,0,29,False,1
+easy_map2.yaml,Simulated Annealing,Target Matching,True,4.82676887512207,0,153,False,1
+large_map1.yaml,IDA*,Simple,True,2.1531214714050293,42206,53,False,2
+large_map1.yaml,IDA*,Matching,True,2.930995464324951,55712,57,False,2
+large_map1.yaml,IDA*,IDA*,True,0.1413583755493164,2242,74,False,2
+large_map1.yaml,IDA*,Target Matching,True,6.1556572914123535,120960,54,False,2
+large_map1.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,2
+large_map1.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,2
+large_map1.yaml,Simulated Annealing,IDA*,True,7.546839952468872,0,1252,False,2
+large_map1.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,2
+hard_map2.yaml,IDA*,Simple,True,4.8225250244140625,117882,72,False,2
+hard_map2.yaml,IDA*,Matching,True,7.699198007583618,176731,80,False,2
+hard_map2.yaml,IDA*,IDA*,True,0.298475980758667,7127,76,False,2
+hard_map2.yaml,IDA*,Target Matching,True,12.645880222320557,301362,57,False,2
+hard_map2.yaml,Simulated Annealing,Simple,True,42.55007266998291,0,1192,False,2
+hard_map2.yaml,Simulated Annealing,Matching,True,3.7214512825012207,0,738,False,2
+hard_map2.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,2
+hard_map2.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,2
+medium_map1.yaml,IDA*,Simple,True,0.4573674201965332,14329,30,False,2
+medium_map1.yaml,IDA*,Matching,True,0.7131245136260986,21376,34,False,2
+medium_map1.yaml,IDA*,IDA*,True,0.4051659107208252,10505,61,False,2
+medium_map1.yaml,IDA*,Target Matching,True,5.770620346069336,159682,58,False,2
+medium_map1.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,2
+medium_map1.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,2
+medium_map1.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,2
+medium_map1.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,2
+medium_map2.yaml,IDA*,Simple,True,5.312079906463623,120454,49,False,3
+medium_map2.yaml,IDA*,Matching,True,4.8158464431762695,107587,49,False,3
+medium_map2.yaml,IDA*,IDA*,True,20.65877628326416,333866,192,False,3
+medium_map2.yaml,IDA*,Target Matching,False,60.0,978702,0,True,3
+medium_map2.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,3
+medium_map2.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,3
+medium_map2.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,3
+medium_map2.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,3
+large_map2.yaml,IDA*,Simple,False,60.0,1101641,0,True,3
+large_map2.yaml,IDA*,Matching,False,60.0,1145187,0,True,3
+large_map2.yaml,IDA*,IDA*,True,2.867841958999634,48928,84,False,3
+large_map2.yaml,IDA*,Target Matching,False,60.0,1118964,0,True,3
+large_map2.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,3
+large_map2.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,3
+large_map2.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,3
+large_map2.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,3
+hard_map1.yaml,IDA*,Simple,True,0.3790106773376465,8180,34,False,4
+hard_map1.yaml,IDA*,Matching,True,1.1579928398132324,24443,40,False,4
+hard_map1.yaml,IDA*,IDA*,True,0.14002752304077148,2057,99,False,4
+hard_map1.yaml,IDA*,Target Matching,True,13.71747636795044,211264,103,False,4
+hard_map1.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,4
+hard_map1.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,4
+hard_map1.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,4
+hard_map1.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,4
+super_hard_map1.yaml,IDA*,Simple,False,60.0,1226528,0,True,5
+super_hard_map1.yaml,IDA*,Matching,False,60.0,1227471,0,True,5
+super_hard_map1.yaml,IDA*,IDA*,True,29.481226682662964,377861,285,False,5
+super_hard_map1.yaml,IDA*,Target Matching,False,60.0,778922,0,True,5
+super_hard_map1.yaml,Simulated Annealing,Simple,False,60.0,0,0,True,5
+super_hard_map1.yaml,Simulated Annealing,Matching,False,60.0,0,0,True,5
+super_hard_map1.yaml,Simulated Annealing,IDA*,False,60.0,0,0,True,5
+super_hard_map1.yaml,Simulated Annealing,Target Matching,False,60.0,0,0,True,5
